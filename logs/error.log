@@ -1,0 +1,17 @@
+2024-08-04 04:18:45, error, Cast to ObjectId failed for value "66aef34af09217e388bd28541" (type string) at path "_id" for model "products"
+2024-08-04 04:30:33, error, Cast to ObjectId failed for value "66aef34af09217e388bd28541" (type string) at path "_id" for model "products"
+2024-08-04 05:15:50, error, logger is not defined
+2024-08-04 05:17:19, error, Cannot create property 'Symbol(level)' on string 'info'
+2024-08-04 05:27:22, error, Este es un error
+2024-08-04 05:28:02, error, Este es un error
+2024-08-04 05:31:09, error, Este es un error
+2024-08-04 05:36:08, error, Este es un error
+2024-08-04 05:36:08, error, Cannot set headers after they are sent to the client
+2024-08-04 05:36:09, error, Este es un error
+2024-08-04 05:36:09, error, Cannot set headers after they are sent to the client
+2024-08-04 05:36:11, error, Este es un error
+2024-08-04 05:36:11, error, Cannot set headers after they are sent to the client
+2024-08-04 05:36:44, error, Este es un error
+2024-08-04 05:40:07, error, Error message
+2024-08-04 05:42:39, error, Error message
+2024-08-04 05:43:17, error, Error message
